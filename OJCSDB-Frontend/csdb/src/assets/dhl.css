@@ -1,0 +1,70 @@
+.dhl {
+    position: absolute;
+    left: 3px;
+    top: 0;
+    font-weight: 500;
+    width: 100vw;
+    height: 51px;
+    border: 0px solid chocolate;
+    background-color: #ebecee8e;
+    border-radius: 7px;
+}
+
+.hi {
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    right: 78px;
+    font-size: 16px;
+    position: absolute;
+    color: dimgray;
+}
+
+.bt {
+    font-size: 20px;
+    font-weight: 560;
+    margin-right: 9px;
+    margin-left: 18px;
+    top: 12px;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(167, 157, 157);
+    margin-right: -6px;
+    top: 10px;
+    padding: 16px 20px;
+    position: relative;
+}
+
+a:hover {
+    color: rgb(44, 30, 30);
+    background-color: rgba(221, 221, 221, 0.404);
+}
+
+
+/* select {
+    border: none;
+    font-size: 18px;
+    color: rgb(167, 157, 157);
+    margin-right: 18px;
+    padding: 13px 20px;
+    width: 75px;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    background-color: #ebecee8e;
+}
+
+option {
+    color: rgb(167, 157, 157);
+    text-align: center;
+}
+
+select:hover,
+option:hover {
+    color: rgb(44, 30, 30);
+    background-color: rgba(221, 221, 221, 0.404);
+} */
